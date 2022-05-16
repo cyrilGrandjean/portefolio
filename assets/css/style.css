@@ -952,3 +952,19 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+/*--------------------------------------------------------------
+# Table
+--------------------------------------------------------------*/
+table,
+td {
+  border: 1px solid #333;
+}
+
+thead,
+tfoot {
+  background-color: #37b3ed;
+  border: 1px solid #333;
+  color: #000;
+}
